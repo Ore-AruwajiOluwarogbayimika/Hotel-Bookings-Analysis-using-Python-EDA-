@@ -1,7 +1,6 @@
 # Hotel-Bookings-Analysis-using-Python-EDA-
 ## OVERVIEW 
 An indepth analysis using Exploratory Data Analysis (EDA) techniques in python to answer key questions based on the hotel bookings dataset, trends and analysis.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotelenglishpoint.com%2Fblog%2Fbenefits-features-of-a-luxury-hotel-all-you-need-to-know%2F&psig=AOvVaw19mMiZhgMW9DQ-NMqMgQ8O&ust=1690372355349000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjatPLlqYADFQAAAAAdAAAAABAx
 
 ## OBJECTIVE
 The main objective of this project is to carry out Exploratory data analysis using python programming on the hotel bookings dataset and draw useful insights based on the trends, relationships and the connection between the different hotels booked by guests.
