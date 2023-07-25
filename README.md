@@ -2,6 +2,8 @@
 ## OVERVIEW 
 An indepth analysis using Exploratory Data Analysis (EDA) techniques in python to answer key questions based on the hotel bookings dataset, trends and analysis.
 
+![istockphoto-472899538-612x612](https://github.com/Ore-AruwajiOluwarogbayimika/Hotel-Bookings-Analysis-using-Python-EDA-/assets/129456640/667690ba-3e12-4cb1-bbca-ad2bb6396337)
+
 ## OBJECTIVE
 The main objective of this project is to carry out Exploratory data analysis using python programming on the hotel bookings dataset and draw useful insights based on the trends, relationships and the connection between the different hotels booked by guests.
 
