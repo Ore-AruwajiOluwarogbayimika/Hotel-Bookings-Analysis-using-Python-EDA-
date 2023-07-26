@@ -105,7 +105,6 @@ The answers provided through the analysis put forth some valuable insights, reco
 
 
  ## RECOMMENDATIONS
- 1. To improve sales and also boost booking performance, the hotel management can utilize the preferred channel (TA/TO) as a major marketing strategy to find out why customers love using the channel and integrate it into other channels to boost in their numbers.
- 2. Provide similar room types like room H, G, and C to get more daily revenue.
- 3. Couples are the most common guests for hotels, hence hotels can plan services according to couples needs to increase revenue.
- 4. Most of the guests came from european countries, with most of guests coming from Portugal and in terms of expansion, the management can increase its advertisement in other continents to bring in guests from other countries. 
+ 1. Couples are the most common guests for hotels, hence, hotels can plan packages that match couples interest to increase revenue.
+ 2. Most of the guests came from european countries, with most of guests coming from Portugal, hence, the hotel management can promote various events in portugal to increase the inflow of guests from the country and other top countries.
+ 3. Since guests prefer to use TA/TO channel for hotel bookings, this can be a focal point for advertisement and marketing, to reach more customers and promote more deals to incoming guests.
