@@ -74,14 +74,23 @@ e. Removal of Outliers: An outlier in the adr column was dropped.
    In this phase, Exploratory Data Analysis (EDA) was used in analyzing the dataframe and drawing out valuable insights. For this analysis, 10 key questions were answered as regards the objective of the project. The 10 questions are:
 
  Question 1)  Which room type is the most in demand?
+ 
  Question 2)  Which room type generates the  highest adr (average daily rate)?
+ 
  Question 3)  Which meal type is the most preffered meal of customers?
+ 
  Question 4)  What is the  percentage of bookings in each hotel?
+ 
  Question 5)  Which is the most common channel for booking hotels?
+ 
  Question 6)  Which are the top 10 most busy months?
- Question 7)  From which country most of the guests are comin ?
+ 
+ Question 7)  From which country do we have most guests?
+ 
  Question 8)  How long do people stay at the hotels?
+ 
  Question 9)  Which hotel seems to make more revenue?
+ 
  Question 10) Which hotel has a higher chance of repeated stay?
 
 Alongside the code and analysis were visualizations for each question to provide clear insights towards the answers of each question.
@@ -93,14 +102,23 @@ The answers provided through the analysis put forth some valuable insights, reco
 ## KEY INSIGHTS
 
  1.) Most demanded room type is A. but better adr generating rooms H, G and C. Hotels should increase the no. of room types A and H to maximise revenue.
+ 
  2.) The adr generating rooms are: H, G and C. With room H having the highest Average Daily Revenue. 
+ 
  3.) Most popular meal type is BB(Bed and Breakfast).
+ 
  4.) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel.
+ 
  5.) The most preferred channel for booking is the TA/TO channel. Guests also use other channels.
+ 
  6.) August is the busiest and most profitable month for both hotels. This is an idication that guests love booking during the summer holidays.
+ 
  7.) Most of the guests came from european countries, with highest number of guests from Portugal.
+ 
  8.) Most common stay length is less than 4 days and generally people prefer City hotel for short stay, but for long stays, Resort Hotel is preferred.
+ 
  9.) City Hotels make more revenue than Resort Hotels.
+ 
  10.) Resort Hotel has a higher chance of repeated stay than the city hotels.
 
 
