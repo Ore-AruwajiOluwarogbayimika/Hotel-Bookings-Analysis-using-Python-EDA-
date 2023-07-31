@@ -54,7 +54,7 @@ DATASET: Total Rows: 119390
    This phase includes pointing out the key objective of the project to aid better focus and results which is: To carry out Exploratory data analysis using python programming on the hotel bookings dataset and draw useful insights based on the trends, relationships and the connection between the different hotels booked by guests.
 
 2. ### PREPARE PHASE
-   In this phase, the excel file (Hotel bookings) is downloaded on my local desktop and stored before furhter analysis.
+   In this phase, the excel file (Hotel bookings) is downloaded on my local desktop and stored before further analysis.
 
 3. ### PROCESS PHASE
    To begin this phase, the excel file is opened in jupyter notebook for analysis using python programming language. Before analysis, the dataframe in jupyter notebook needs to be cleaned to ensure accurate results.
